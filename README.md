@@ -1,4 +1,4 @@
-# wordpress-fuzz
+# Wordpress Fuzz
 Python tool for guessing pages on Wordpress websites.
 
 ![Basic Usage](wp-fuzz.png)
