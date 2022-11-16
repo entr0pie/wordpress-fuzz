@@ -9,7 +9,7 @@ You can get the script via Wget:
 wget https://raw.githubusercontent.com/entr0pie/wordpress-fuzz/main/wp-fuzz.py
 ```
 
-Or via curl:
+Or via Curl:
 ```
 curl https://raw.githubusercontent.com/entr0pie/wordpress-fuzz/main/wp-fuzz.py | tee wp-fuzz.py
 ```
