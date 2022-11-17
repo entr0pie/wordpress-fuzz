@@ -1,23 +1,15 @@
 # Wordpress Fuzz
-Python tool for guessing pages on Wordpress websites.
+Python tool for fuzzing Wordpress websites.
 
 ![Basic Usage](wp-fuzz.png)
 
 ## Instalation
-You can get the script via Wget:
-```
-wget https://raw.githubusercontent.com/entr0pie/wordpress-fuzz/main/wp-fuzz.py
-```
 
-Or via Curl:
-```
+``` 
+pip install requests
 curl https://raw.githubusercontent.com/entr0pie/wordpress-fuzz/main/wp-fuzz.py | tee wp-fuzz.py
 ```
 
-Installing libraries:
-``` 
-pip install requests
-```
 
 ## Usage
 ```
